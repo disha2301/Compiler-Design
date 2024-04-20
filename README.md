@@ -1,8 +1,8 @@
-# Compiler Design Experiments
+# 🖥️ Compiler Design Experiments
 
-This repository contains a series of experiments and programs related to compiler design. Each experiment is designed to explore fundamental concepts and techniques used in building compilers.
+Welcome to the Compiler Design Experiments repository! 🚀 This repository contains a series of experiments and programs related to compiler design. Each experiment explores fundamental concepts and techniques used in building compilers.
 
-## Experiments in Order
+## 📋 Experiments in Order
 
 1. **Simple Calculator**
    - This experiment involves creating a basic calculator using lex and yacc (or flex and bison), demonstrating lexical analysis and parsing.
@@ -33,10 +33,14 @@ This repository contains a series of experiments and programs related to compile
 
 Each experiment folder contains source code and possibly additional documentation or explanatory files to understand the concepts and implementations.
 
-## Getting Started
+## 🚀 Getting Started
 
 To explore these experiments:
 
-1. Clone this repository:
+1. **Clone this repository:**
    ```bash
    git clone https://github.com/your-username/compiler-design-experiments.git
+2. **Requirements:**</br>
+  - For experiments involving Lex and Yacc (Flex and Bison), ensure you have these tools installed on your system. </br>
+  - Java experiments may require a JDK (Java Development Kit) installed.
+## 🚀 
